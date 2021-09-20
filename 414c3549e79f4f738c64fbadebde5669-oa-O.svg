@@ -1,0 +1,13 @@
+<svg height="457" width="603" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="30.76923" id="414c3549e79f4f738c64fbadebde5669-oa-1" stroke="#2D2D2D" width="124.17583" x="237.65937" y="41.9011"/>
+  <rect fill="#FFEBA2" height="26.37363" id="414c3549e79f4f738c64fbadebde5669-oa-2" stroke="#2D2D2D" width="440.65936" x="155.24179" y="10.03297"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="414c3549e79f4f738c64fbadebde5669-oa-3" stroke-width="0" text-anchor="middle" x="387.10993" xml:space="preserve" y="288.05496">cơ chéo trên</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="414c3549e79f4f738c64fbadebde5669-oa-4" stroke-width="0" text-anchor="middle" x="378.31872" xml:space="preserve" y="344.09891">cơ thẳng trong</text>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg height="449" width="582" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="61dbeeecb22445b0a19bbd360f2efb17-oa-1" stroke-width="0" text-anchor="middle" x="237.54024" xml:space="preserve" y="103.87355">Từ thất phải</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="61dbeeecb22445b0a19bbd360f2efb17-oa-2" stroke-width="0" text-anchor="middle" x="251.33334" xml:space="preserve" y="138.35631">Từ thất trái</text>
+  <rect fill="#FFEBA2" height="25.28736" id="61dbeeecb22445b0a19bbd360f2efb17-oa-3" stroke="#2D2D2D" width="157.47127" x="42.13794" y="140.65516"/>
+  <rect fill="#FFEBA2" height="25.28736" id="61dbeeecb22445b0a19bbd360f2efb17-oa-4" stroke="#2D2D2D" width="170.11494" x="45.58621" y="165.94252"/>
+  <rect fill="#FFEBA2" height="13.7931" id="61dbeeecb22445b0a19bbd360f2efb17-oa-5" stroke="#2D2D2D" width="163.21839" x="63.97702" y="238.35631"/>
+ </g>
+</svg>

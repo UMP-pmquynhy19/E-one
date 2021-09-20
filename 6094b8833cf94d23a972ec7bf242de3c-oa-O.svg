@@ -1,0 +1,21 @@
+<svg height="437" width="603" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="19.78022" id="6094b8833cf94d23a972ec7bf242de3c-oa-1" stroke="#2D2D2D" width="60.43956" x="71.7253" y="114.64833"/>
+  <rect fill="#FFEBA2" height="26.37363" id="6094b8833cf94d23a972ec7bf242de3c-oa-2" stroke="#2D2D2D" width="95.6044" x="34.36266" y="147.61536"/>
+  <rect fill="#FFEBA2" height="8.79121" id="6094b8833cf94d23a972ec7bf242de3c-oa-3" stroke="#2D2D2D" width="117.58242" x="20.07695" y="182.7802"/>
+  <rect fill="#FFEBA2" height="12.08791" id="6094b8833cf94d23a972ec7bf242de3c-oa-4" stroke="#2D2D2D" width="43.95605" x="124.47255" y="197.06591"/>
+  <rect fill="#FFEBA2" height="14.28571" id="6094b8833cf94d23a972ec7bf242de3c-oa-5" stroke="#2D2D2D" width="74.72528" x="56.34068" y="214.64833"/>
+  <rect fill="#FFEBA2" height="23.07692" id="6094b8833cf94d23a972ec7bf242de3c-oa-6" stroke="#2D2D2D" width="48.35165" x="123.37365" y="232.23075"/>
+  <rect fill="#FFEBA2" height="25.27473" id="6094b8833cf94d23a972ec7bf242de3c-oa-7" stroke="#2D2D2D" width="61.53846" x="223.37366" y="277.28569"/>
+  <rect fill="#FFEBA2" height="25.27473" id="6094b8833cf94d23a972ec7bf242de3c-oa-8" stroke="#2D2D2D" width="102.19781" x="436.56048" y="201.46152"/>
+  <rect fill="#FFEBA2" height="27.47253" id="6094b8833cf94d23a972ec7bf242de3c-oa-9" stroke="#2D2D2D" width="81.31868" x="435.46158" y="156.40657"/>
+  <rect fill="#FFEBA2" height="38.46154" id="6094b8833cf94d23a972ec7bf242de3c-oa-10" stroke="#2D2D2D" width="149.45055" x="425.57147" y="131.13184"/>
+  <rect fill="#FFEBA2" height="23.07692" id="6094b8833cf94d23a972ec7bf242de3c-oa-11" stroke="#2D2D2D" width="82.41759" x="428.86817" y="102.56041"/>
+  <ellipse cx="505.79125" cy="410.25273" fill="#ff0000" id="6094b8833cf94d23a972ec7bf242de3c-oa-12" rx="32.96703" ry="12.08791" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null"/>
+ </g>
+</svg>
